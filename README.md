@@ -56,13 +56,3 @@ city
 state
 country
 shape
-
-
-
-
-
-Dataset
-
-UFO Sightings Data
-
-e
